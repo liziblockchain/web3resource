@@ -10,3 +10,9 @@
 # Ethereum
 
 - Most Solidity mistakes https://github.com/sigp/solidity-security-blog
+
+
+
+# News
+
+- Web3.0给中小企业云服务带来哪些启示？ https://finance.sina.com.cn/blockchain/KBroll/2022-10-11/doc-imqmmthc0475313.shtml
