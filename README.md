@@ -16,3 +16,7 @@
 # News
 
 - Web3.0给中小企业云服务带来哪些启示？ https://finance.sina.com.cn/blockchain/KBroll/2022-10-11/doc-imqmmthc0475313.shtml
+- Web 3.0的热闹与冷静 大规模应用仍需时间检验
+https://finance.sina.com.cn/tech/roll/2022-07-16/doc-imizirav3658373.shtml
+- Web3.0 拓展数字经济增长新空间
+https://finance.sina.com.cn/blockchain/roll/2022-09-22/doc-imqmmtha8321672.shtml
