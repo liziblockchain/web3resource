@@ -8,10 +8,12 @@
 
 
 # Ethereum
-
 - Most Solidity mistakes https://github.com/sigp/solidity-security-blog
 
 
+# Source
+
+- VDF Golang Implementation https://github.com/harmony-one/vdf
 
 # News
 
