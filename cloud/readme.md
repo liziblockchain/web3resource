@@ -4,8 +4,6 @@
 - Serverless 的初心、现状和未来 https://zhuanlan.zhihu.com/p/153342531
 
 ## 刘超的通俗云计算
-- 不是技术也能看懂云计算，大数据，人工智能
-https://mp.weixin.qq.com/s/AKTktclQ5d7TbaUCgvxpfw
 - 云架构师进阶攻略
 https://mp.weixin.qq.com/s/tBQ5tjSqk94_AtrgYgO0xA
 - 为什么 kubernetes 天然适合微服务
