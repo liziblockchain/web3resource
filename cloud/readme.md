@@ -6,8 +6,6 @@
 ## 刘超的通俗云计算
 - 云架构师进阶攻略
 https://mp.weixin.qq.com/s/tBQ5tjSqk94_AtrgYgO0xA
-- 为什么 kubernetes 天然适合微服务
-https://mp.weixin.qq.com/s/L5imIU7pW6RN0VB2XgQ_kw
 - 有关容器的六大误区和八大正确场景
 https://mp.weixin.qq.com/s/4DvwFvJoJTTkrADcaEKpuQ
 - 终于有人把云计算、大数据和人工智能讲明白了
