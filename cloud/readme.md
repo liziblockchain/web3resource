@@ -48,9 +48,7 @@ https://mp.weixin.qq.com/s/L5imIU7pW6RN0VB2XgQ_kw
 https://mp.weixin.qq.com/s/-9wHpKGf7aJSbtShpCcoVg
 - 微服务化的数据库设计与读写分离
 https://mp.weixin.qq.com/s/WFKJxEZObJw60SVmMOmNyw
-- IT云厂商和互联网云厂商在ToB领域的几个回合？
-https://mp.weixin.qq.com/s/AP7gp7sWK3GzC7Zntdc90g
 - 最牛云厂商的最牛解决方案盘点(1)
 https://mp.weixin.qq.com/s/S1EKixdGi9rPdQvIyjBWnw
 - 从互联网+角度看云计算的现状与未来
-https://mp.weixin.qq.com/s/gUl7sVktWQIR3uoObacDIg
+https://mp.weixin.qq.com/s/gUl7sVktWQIR3uoObacDIg 【IT架构趋势二：云化容器化不可逆转】这一节的比喻，非常好
