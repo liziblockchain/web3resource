@@ -11,10 +11,6 @@
 - Most Solidity mistakes https://github.com/sigp/solidity-security-blog
 
 
-# Source
-
-- VDF Golang Implementation https://github.com/harmony-one/vdf
-
 # News
 
 - Web3.0给中小企业云服务带来哪些启示？ https://finance.sina.com.cn/blockchain/KBroll/2022-10-11/doc-imqmmthc0475313.shtml

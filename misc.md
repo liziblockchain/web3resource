@@ -15,3 +15,13 @@ VRF Opensource Implementation:
 - Yahoo! coname: https://github.com/r2ishiguro/vrf/
 - Open Whisper: https://github.com/WhisperSystems/libsignal-protocol-c/tree/master/src/curve25519/ed25519/additions/generalized
 
+## VDF(Verifiable Delay Function)
+- [研究] 可验证延迟函数（VDF）（一）一文搞懂 VDF https://blog.priewienv.me/post/verifiable-delay-function-1/
+- VDF 不是工作量证明 https://www.dailybtc.cn/%E5%BC%95%E4%BB%8B-vdf-%E4%B8%8D%E6%98%AF%E5%B7%A5%E4%BD%9C%E9%87%8F%E8%AF%81%E6%98%8E/
+- VDF（可验证延迟函数） FAQ，Part-1：概述、用途和方案 https://www.dailybtc.cn/%E7%A7%91%E6%99%AE-vdf%EF%BC%88%E5%8F%AF%E9%AA%8C%E8%AF%81%E5%BB%B6%E8%BF%9F%E5%87%BD%E6%95%B0%EF%BC%89-faq%EF%BC%8Cpart-1%EF%BC%9A%E6%A6%82%E8%BF%B0%E3%80%81%E7%94%A8%E9%80%94%E5%92%8C%E6%96%B9/
+
+
+VDF Opensource Implementation:
+
+- https://github.com/keyfuse/vdf
+- https://github.com/harmony-one/vdf
