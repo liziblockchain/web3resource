@@ -12,4 +12,4 @@
 - [Bitcoin](btc/readme.md)
 
 # Fabric
-- [Fabric](fabric/readme.md)
+- [Fabric](fabric/README.md)
